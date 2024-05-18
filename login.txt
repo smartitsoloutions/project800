@@ -1,4 +1,8 @@
 login person name;
 mail id :
 contact number
+Qualification
+Age
+Location
+
 
